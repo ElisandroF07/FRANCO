@@ -1,0 +1,33 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 07/11/2019 09:21
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("../font/Flaticon.eot");
+  src: url("../font/Flaticond41d.eot?#iefix") format("embedded-opentype"),
+       url("../font/Flaticon.woff2") format("woff2"),
+       url("../font/Flaticon.woff") format("woff"),
+       url("../font/Flaticon.ttf") format("truetype");
+       
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+font-style: normal;
+}
+
+.flaticon-placeholder:before { content: "\f100"; }
+.flaticon-message:before { content: "\f101"; }
+.flaticon-phone-call:before { content: "\f102"; }
