@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/FRANCO/static/css/main.f24bb268.css",
-    "main.js": "/FRANCO/static/js/main.51727c71.js",
+    "main.js": "/FRANCO/static/js/main.ef5aed3f.js",
     "static/js/787.c4e603ff.chunk.js": "/FRANCO/static/js/787.c4e603ff.chunk.js",
     "static/media/787.jpg": "/FRANCO/static/media/787.421102b0d04e9763422c.jpg",
     "static/media/banner-2.png": "/FRANCO/static/media/banner-2.5be7e1dbe85ee352b28e.png",
@@ -72,11 +72,11 @@
     "static/media/Flaticon.woff2": "/FRANCO/static/media/Flaticon.f668f9de928b5f28ccf0.woff2",
     "index.html": "/FRANCO/index.html",
     "main.f24bb268.css.map": "/FRANCO/static/css/main.f24bb268.css.map",
-    "main.51727c71.js.map": "/FRANCO/static/js/main.51727c71.js.map",
+    "main.ef5aed3f.js.map": "/FRANCO/static/js/main.ef5aed3f.js.map",
     "787.c4e603ff.chunk.js.map": "/FRANCO/static/js/787.c4e603ff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f24bb268.css",
-    "static/js/main.51727c71.js"
+    "static/js/main.ef5aed3f.js"
   ]
 }
